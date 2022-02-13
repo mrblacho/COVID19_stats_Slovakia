@@ -26,3 +26,5 @@ ax2.plot(date, cases, color = 'blue')
 ax2.set_ylabel('cases', color = 'b')
 
 plt.show()
+
+# See example plot for reference to see if script was executed correctly
